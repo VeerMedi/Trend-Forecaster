@@ -212,7 +212,3 @@ POST /api/forecast
 - 🇺🇸 United States
 - 🇮🇳 India
 - 🇬🇧 United Kingdom
-
-## 👤 Author
-
-Krishna Jaiswal
